@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\products\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\products\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\products\\listofproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\products\\listofproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\services\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\services\\company.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\services\\myservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\services\\myservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\models\\companymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\models\\companymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\shared\\_partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\shared\\_partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\models\\myservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\models\\myservicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\desktop\\mvc\\netcorefirstapp\\netcorefirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Products\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\Products\\EditProduct.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Products\\EditProduct.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\Products\\EditProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T09:36:12.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListofProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Products\\ListofProducts.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\Products\\ListofProducts.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Products\\ListofProducts.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\Products\\ListofProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T08:29:07.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NetCoreFirstApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:26:26.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "NetCoreFirstApp\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAawCIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:26:09.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T08:37:00.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCgAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T08:37:08.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Models\\ProductModel.cs",
+              "RelativeToolTip": "NetCoreFirstApp\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:34:22.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Models\\CompanyModel.cs",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Models\\CompanyModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Models\\CompanyModel.cs",
+              "RelativeToolTip": "NetCoreFirstApp\\Models\\CompanyModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:54:42.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NetCoreFirstApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T09:01:30.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NetCoreFirstApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:37:51.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Home\\contact.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\Home\\contact.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Home\\contact.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\Home\\contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T08:40:30.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyServices.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Services\\MyServices.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\Services\\MyServices.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Services\\MyServices.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\Services\\MyServices.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:37:10.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Company.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Services\\Company.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\Services\\Company.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Services\\Company.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\Services\\Company.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T08:53:59.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_partial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Shared\\_partial.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\Shared\\_partial.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Shared\\_partial.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\Shared\\_partial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T07:53:45.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyServiceModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Models\\MyServiceModel.cs",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Models\\MyServiceModel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Models\\MyServiceModel.cs",
+              "RelativeToolTip": "NetCoreFirstApp\\Models\\MyServiceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:59:57.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T09:01:49.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T09:04:24.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T08:30:04.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Program.cs",
+              "RelativeToolTip": "NetCoreFirstApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:12:59.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T08:36:57.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "NetCoreFirstApp\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-19T09:14:01.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\appsettings.json",
+              "RelativeDocumentMoniker": "NetCoreFirstApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\appsettings.json",
+              "RelativeToolTip": "NetCoreFirstApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T08:03:46.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

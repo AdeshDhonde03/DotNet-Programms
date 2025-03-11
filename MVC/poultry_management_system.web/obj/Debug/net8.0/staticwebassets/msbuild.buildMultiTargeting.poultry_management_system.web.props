@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\poultry_management_system.web.props" />
+</Project>

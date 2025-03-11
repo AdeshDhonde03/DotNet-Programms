@@ -1,0 +1,15 @@
+﻿@model List<ProductModel>
+@{
+}
+
+<h1>Update The Product Details</h1>
+
+@foreach (var product in Model)
+{
+    <div class="form"> 
+        <input type="hidden" asp-for="@product.ProductId" id="ProducId"/>
+        <input type="text" asp-for="@product.ProductName" id="ProductName" />
+        
+
+    </div>
+}

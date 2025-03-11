@@ -1,0 +1,61 @@
+﻿@model List<poultry_management_system.web.Models.Domain.DialyFlockEntry>
+@{
+}
+
+<div class="bg-secondary bg-opacity-10 py-2">
+   
+    </div>
+    <div class="container">
+        <h1> All Records</h1>
+        <a asp-area="" asp-controller="DailyEntry" asp-action="Add_Entry">Add</a>
+    </div>
+</div>
+
+<div class="container" py-5>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table" border="1">
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Age</th>
+                    <th>Opening_Birds</th>
+                    <th>Mortallity</th>
+                    <th>Closing_Birds</th>
+                    <th>Feed_Consume</th>
+                    <th>Avg_Weight</th>
+                    <th>Daily_Eggs_Production</th>
+                    <th>Health_Status</th>
+                    <th>Instruction</th>
+
+                    <th></th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var records in Model)
+                {
+                    <tr>
+                        <td>@records.Id</td>
+                        <td>@records.Age</td>
+                        <td>@records.Opening_Birds</td>
+                        <td>@records.Mortallity</td>
+                        <th>@records.Closing_Birds</th>
+                        <td>@records.Feed_Consume</td>
+                        <td>@records.Avg_Weight</td>
+                        <td>@records.Daily_Eggs_Production</td>
+                        <td>@records.Health_Status</td>
+                        <td>@records.Instruction</td>
+                        <td><a asp-area="" asp-controller="DailyEntry" asp-action="Edit" asp-route-id="@records.Id">Edit</a></td>
+                        <td><a asp-area="" asp-controller="DailyEntry" asp-action="Delete" asp-route-id="@records.Id">Delete</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No Data found</p>
+    }
+</div>

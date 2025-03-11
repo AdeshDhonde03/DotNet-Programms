@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|c:\\users\\hp\\desktop\\mvc\\poultry_management_system.web\\views\\dailyentry\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|solutionrelative:views\\dailyentry\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|c:\\users\\hp\\desktop\\mvc\\poultry_management_system.web\\controllers\\dailyentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|solutionrelative:controllers\\dailyentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|c:\\users\\hp\\desktop\\mvc\\poultry_management_system.web\\views\\dailyentry\\add_entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|solutionrelative:views\\dailyentry\\add_entry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|c:\\users\\hp\\desktop\\mvc\\poultry_management_system.web\\migrations\\poultrydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|solutionrelative:migrations\\poultrydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|c:\\users\\hp\\desktop\\mvc\\poultry_management_system.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|c:\\users\\hp\\desktop\\mvc\\poultry_management_system.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|c:\\users\\hp\\desktop\\mvc\\poultry_management_system.web\\views\\dailyentry\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|solutionrelative:views\\dailyentry\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|c:\\users\\hp\\desktop\\mvc\\poultry_management_system.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|c:\\users\\hp\\desktop\\mvc\\poultry_management_system.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493ACF38-68C1-4884-9371-4F9D7F65C42D}|poultry_management_system.web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Views\\DailyEntry\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\DailyEntry\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Views\\DailyEntry\\Edit.cshtml",
+              "RelativeToolTip": "Views\\DailyEntry\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T09:45:51.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DailyEntryController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Controllers\\DailyEntryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DailyEntryController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Controllers\\DailyEntryController.cs",
+              "RelativeToolTip": "Controllers\\DailyEntryController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwE4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:50:29.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PoultryDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Migrations\\PoultryDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\PoultryDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Migrations\\PoultryDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\PoultryDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T17:03:10.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add_Entry.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Views\\DailyEntry\\Add_Entry.cshtml",
+              "RelativeDocumentMoniker": "Views\\DailyEntry\\Add_Entry.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Views\\DailyEntry\\Add_Entry.cshtml",
+              "RelativeToolTip": "Views\\DailyEntry\\Add_Entry.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T15:06:04.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Views\\DailyEntry\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\DailyEntry\\List.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Views\\DailyEntry\\List.cshtml",
+              "RelativeToolTip": "Views\\DailyEntry\\List.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T15:05:43.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T15:05:36.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-31T15:05:31.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T04:16:20.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\MVC\\poultry_management_system.web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T06:00:00.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
