@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\C#\FilesHandling\bin\Debug\FilesHandling.exe.config
+C:\Users\hp\Desktop\C#\FilesHandling\bin\Debug\FilesHandling.exe
+C:\Users\hp\Desktop\C#\FilesHandling\bin\Debug\FilesHandling.pdb
+C:\Users\hp\Desktop\C#\FilesHandling\obj\Debug\FilesHandling.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\FilesHandling\obj\Debug\FilesHandling.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\FilesHandling\obj\Debug\FilesHandling.exe
+C:\Users\hp\Desktop\C#\FilesHandling\obj\Debug\FilesHandling.pdb

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\CounterApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CounterApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CounterApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\CounterApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\CounterApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\CounterApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hp\\Desktop\\C#\\CounterApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CounterApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CounterApp.props",
+      "PackagePath": "build\\CounterApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CounterApp.props",
+      "PackagePath": "buildMultiTargeting\\CounterApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CounterApp.props",
+      "PackagePath": "buildTransitive\\CounterApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

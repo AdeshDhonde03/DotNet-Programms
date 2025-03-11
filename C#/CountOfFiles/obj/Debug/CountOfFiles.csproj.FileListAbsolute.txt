@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\C#\CountOfFiles\bin\Debug\CountOfFiles.exe.config
+C:\Users\hp\Desktop\C#\CountOfFiles\bin\Debug\CountOfFiles.exe
+C:\Users\hp\Desktop\C#\CountOfFiles\bin\Debug\CountOfFiles.pdb
+C:\Users\hp\Desktop\C#\CountOfFiles\obj\Debug\CountOfFiles.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\CountOfFiles\obj\Debug\CountOfFiles.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\CountOfFiles\obj\Debug\CountOfFiles.exe
+C:\Users\hp\Desktop\C#\CountOfFiles\obj\Debug\CountOfFiles.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\C#\\EventExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B1873-6FA2-4794-8D2C-905CC964573F}|EventExample.csproj|c:\\users\\hp\\desktop\\c#\\eventexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5B1873-6FA2-4794-8D2C-905CC964573F}|EventExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B1873-6FA2-4794-8D2C-905CC964573F}|EventExample.csproj|C:\\Users\\hp\\Desktop\\C#\\EventExample\\Publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5B1873-6FA2-4794-8D2C-905CC964573F}|EventExample.csproj|solutionrelative:Publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B1873-6FA2-4794-8D2C-905CC964573F}|EventExample.csproj|C:\\Users\\hp\\Desktop\\C#\\EventExample\\Subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5B1873-6FA2-4794-8D2C-905CC964573F}|EventExample.csproj|solutionrelative:Subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\EventExample\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Subscriber.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\EventExample\\Subscriber.cs",
+              "RelativeToolTip": "Subscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:13:31.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\EventExample\\Publisher.cs",
+              "RelativeDocumentMoniker": "Publisher.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\EventExample\\Publisher.cs",
+              "RelativeToolTip": "Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:09:50.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\EventExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\EventExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:57:47.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

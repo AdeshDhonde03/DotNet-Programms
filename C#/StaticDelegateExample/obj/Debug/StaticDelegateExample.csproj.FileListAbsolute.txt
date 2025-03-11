@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\C#\StaticDelegateExample\bin\Debug\StaticDelegateExample.exe.config
+C:\Users\hp\Desktop\C#\StaticDelegateExample\bin\Debug\StaticDelegateExample.exe
+C:\Users\hp\Desktop\C#\StaticDelegateExample\bin\Debug\StaticDelegateExample.pdb
+C:\Users\hp\Desktop\C#\StaticDelegateExample\obj\Debug\StaticDelegateExample.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\StaticDelegateExample\obj\Debug\StaticDelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\StaticDelegateExample\obj\Debug\StaticDelegateExample.exe
+C:\Users\hp\Desktop\C#\StaticDelegateExample\obj\Debug\StaticDelegateExample.pdb

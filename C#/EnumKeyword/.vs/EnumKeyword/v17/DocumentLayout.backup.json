@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\C#\\EnumKeyword\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BE1B9D-1B6E-47B1-8E8C-4614577B88FA}|EnumKeyword.csproj|c:\\users\\hp\\desktop\\c#\\enumkeyword\\pricelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BE1B9D-1B6E-47B1-8E8C-4614577B88FA}|EnumKeyword.csproj|solutionrelative:pricelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BE1B9D-1B6E-47B1-8E8C-4614577B88FA}|EnumKeyword.csproj|c:\\users\\hp\\desktop\\c#\\enumkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BE1B9D-1B6E-47B1-8E8C-4614577B88FA}|EnumKeyword.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BE1B9D-1B6E-47B1-8E8C-4614577B88FA}|EnumKeyword.csproj|c:\\users\\hp\\desktop\\c#\\enumkeyword\\pricelevelconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BE1B9D-1B6E-47B1-8E8C-4614577B88FA}|EnumKeyword.csproj|solutionrelative:pricelevelconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9BE1B9D-1B6E-47B1-8E8C-4614577B88FA}|EnumKeyword.csproj|c:\\users\\hp\\desktop\\c#\\enumkeyword\\crossinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9BE1B9D-1B6E-47B1-8E8C-4614577B88FA}|EnumKeyword.csproj|solutionrelative:crossinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriceLevelConstant.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\EnumKeyword\\PriceLevelConstant.cs",
+              "RelativeDocumentMoniker": "PriceLevelConstant.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\EnumKeyword\\PriceLevelConstant.cs",
+              "RelativeToolTip": "PriceLevelConstant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:32:06.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrossinRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\EnumKeyword\\CrossinRequest.cs",
+              "RelativeDocumentMoniker": "CrossinRequest.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\EnumKeyword\\CrossinRequest.cs",
+              "RelativeToolTip": "CrossinRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:30:09.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PriceLevel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\EnumKeyword\\PriceLevel.cs",
+              "RelativeDocumentMoniker": "PriceLevel.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\EnumKeyword\\PriceLevel.cs",
+              "RelativeToolTip": "PriceLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:27:42.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\EnumKeyword\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\EnumKeyword\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:18:44.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
