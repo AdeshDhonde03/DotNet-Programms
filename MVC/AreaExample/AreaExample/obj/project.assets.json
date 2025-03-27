@@ -5572,11 +5572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\AreaExample.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\AreaExample.csproj",
       "projectName": "AreaExample",
-      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\AreaExample.csproj",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\AreaExample.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\obj\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

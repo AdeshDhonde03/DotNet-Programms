@@ -1,25 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc\\areaexample\\areaexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|solutionrelative:areaexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\areaexample\\areaexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|solutionrelative:areaexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc\\areaexample\\areaexample\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|solutionrelative:areaexample\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\areaexample\\areaexample\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|solutionrelative:areaexample\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc\\areaexample\\areaexample\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|solutionrelative:areaexample\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\areaexample\\areaexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|solutionrelative:areaexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc\\areaexample\\areaexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\areaexample\\areaexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|solutionrelative:areaexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\mvc\\areaexample\\areaexample\\areas\\admin\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\areaexample\\areaexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|solutionrelative:areaexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\areaexample\\areaexample\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|solutionrelative:areaexample\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\areaexample\\areaexample\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|solutionrelative:areaexample\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\areaexample\\areaexample\\areas\\admin\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49149CE1-247B-4D85-B4AA-F21076494728}|AreaExample\\AreaExample.csproj|solutionrelative:areaexample\\areas\\admin\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,72 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AreaExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AreaExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:09:58.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AreaExample\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AreaExample\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:09:49.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AreaExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AreaExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T09:09:39.606Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AreaExample\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AreaExample\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAABwAAACAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-27T08:17:00.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\Areas\\Admin\\Views\\LogIn\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Areas\\Admin\\Views\\LogIn\\Register.cshtml",
               "RelativeDocumentMoniker": "AreaExample\\Areas\\Admin\\Views\\LogIn\\Register.cshtml",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\Areas\\Admin\\Views\\LogIn\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Areas\\Admin\\Views\\LogIn\\Register.cshtml",
               "RelativeToolTip": "AreaExample\\Areas\\Admin\\Views\\LogIn\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T08:16:41.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T08:16:41.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "LogInController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\Areas\\Admin\\Controllers\\LogInController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Areas\\Admin\\Controllers\\LogInController.cs",
               "RelativeDocumentMoniker": "AreaExample\\Areas\\Admin\\Controllers\\LogInController.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\Areas\\Admin\\Controllers\\LogInController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Areas\\Admin\\Controllers\\LogInController.cs",
               "RelativeToolTip": "AreaExample\\Areas\\Admin\\Controllers\\LogInController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T08:15:44.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T08:15:44.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Program.cs",
               "RelativeDocumentMoniker": "AreaExample\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\Program.cs",
               "RelativeToolTip": "AreaExample\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T08:13:22.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "AreaExample\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\MVC\\AreaExample\\AreaExample\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\AreaExample\\AreaExample\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "AreaExample\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-02-27T08:13:04.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T08:13:04.053Z"
             }
           ]
         }

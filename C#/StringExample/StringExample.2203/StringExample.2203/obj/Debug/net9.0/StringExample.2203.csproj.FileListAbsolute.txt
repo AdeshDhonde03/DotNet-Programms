@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\bin\Debug\net9.0\StringExample.2203.exe
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\bin\Debug\net9.0\StringExample.2203.deps.json
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\bin\Debug\net9.0\StringExample.2203.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\bin\Debug\net9.0\StringExample.2203.dll
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\bin\Debug\net9.0\StringExample.2203.pdb
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\obj\Debug\net9.0\StringExample.2203.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\obj\Debug\net9.0\StringExample.2203.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\obj\Debug\net9.0\StringExample.2203.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\obj\Debug\net9.0\StringExample.2203.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\obj\Debug\net9.0\StringExample.2203.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\obj\Debug\net9.0\StringExample.2203.dll
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\obj\Debug\net9.0\refint\StringExample.2203.dll
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\obj\Debug\net9.0\StringExample.2203.pdb
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\obj\Debug\net9.0\StringExample.2203.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\StringExample\StringExample.2203\StringExample.2203\obj\Debug\net9.0\ref\StringExample.2203.dll
