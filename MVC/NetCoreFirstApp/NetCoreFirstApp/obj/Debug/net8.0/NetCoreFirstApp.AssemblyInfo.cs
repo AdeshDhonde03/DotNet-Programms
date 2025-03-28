@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreFirstApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34b24ce82600fc8d2f212a6914ce7a69a1eed134")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08289bb2d065638fd0f01b3f4f8cd31656e13b1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreFirstApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreFirstApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\mappings\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:mappings\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\responses\\employeeresponses\\paginatedemployeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:responses\\employeeresponses\\paginatedemployeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\repository\\employeerepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:repository\\employeerepositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\responses\\employeeresponses\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:responses\\employeeresponses\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\repository\\employeerepositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:repository\\employeerepositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\dtos\\employeedtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:dtos\\employeedtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\services\\employeeservices\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:services\\employeeservices\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\ems.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:ems.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\params\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:params\\paginationparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|c:\\users\\hp\\onedrive\\desktop\\web api\\ems\\params\\employeeparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9857B20B-BE32-45A1-8B78-50EF4331137C}|EMS.csproj|solutionrelative:params\\employeeparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaginatedEmployeeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Responses\\EmployeeResponses\\PaginatedEmployeeResponse.cs",
+              "RelativeDocumentMoniker": "Responses\\EmployeeResponses\\PaginatedEmployeeResponse.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Responses\\EmployeeResponses\\PaginatedEmployeeResponse.cs",
+              "RelativeToolTip": "Responses\\EmployeeResponses\\PaginatedEmployeeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:50:10.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Repository\\EmployeeRepositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Repository\\EmployeeRepositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:51:44.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Repository\\EmployeeRepositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Repository\\EmployeeRepositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:05:18.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Mappings\\Mapping.cs",
+              "RelativeDocumentMoniker": "Mappings\\Mapping.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Mappings\\Mapping.cs",
+              "RelativeToolTip": "Mappings\\Mapping.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:14:13.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:03:14.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Entities\\Employee.cs",
+              "RelativeToolTip": "Entities\\Employee.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:07:16.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Responses\\EmployeeResponses\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "Responses\\EmployeeResponses\\EmployeeResponse.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Responses\\EmployeeResponses\\EmployeeResponse.cs",
+              "RelativeToolTip": "Responses\\EmployeeResponses\\EmployeeResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:17:04.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeServices\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeServices\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:11:17.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "Extensions\\ServiceExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:50:59.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:57:39.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\DTOs\\EmployeeDtos\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmployeeDtos\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\DTOs\\EmployeeDtos\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "DTOs\\EmployeeDtos\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:59:57.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\DTOs\\EmployeeDtos\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmployeeDtos\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\DTOs\\EmployeeDtos\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "DTOs\\EmployeeDtos\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T06:07:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:50:38.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:50:21.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Services\\EmployeeServices\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeServices\\EmployeeServices.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Services\\EmployeeServices\\EmployeeServices.cs",
+              "RelativeToolTip": "Services\\EmployeeServices\\EmployeeServices.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T07:17:29.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T16:19:31.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T15:15:53.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EMS",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\EMS.csproj",
+              "RelativeDocumentMoniker": "EMS.csproj",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\EMS.csproj",
+              "RelativeToolTip": "EMS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T15:15:44.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeParams.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Params\\EmployeeParams.cs",
+              "RelativeDocumentMoniker": "Params\\EmployeeParams.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Params\\EmployeeParams.cs",
+              "RelativeToolTip": "Params\\EmployeeParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:51:30.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaginationParams.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Params\\PaginationParams.cs",
+              "RelativeDocumentMoniker": "Params\\PaginationParams.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\EMS\\Params\\PaginationParams.cs",
+              "RelativeToolTip": "Params\\PaginationParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:51:34.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

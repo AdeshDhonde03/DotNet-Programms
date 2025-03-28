@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\NetCoreFirstApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\netcorefirstapp\\netcorefirstapp\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\netcorefirstapp\\netcorefirstapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\netcorefirstapp\\netcorefirstapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\netcorefirstapp\\netcorefirstapp\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|solutionrelative:netcorefirstapp\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D130278-5349-4088-81F5-2FA8343503B4}|NetCoreFirstApp\\NetCoreFirstApp.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\netcorefirstapp\\netcorefirstapp\\models\\companymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "NetCoreFirstApp\\Models\\ErrorViewModel.cs",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MyServiceModel.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Models\\MyServiceModel.cs",
               "RelativeDocumentMoniker": "NetCoreFirstApp\\Models\\MyServiceModel.cs",
@@ -134,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "NetCoreFirstApp\\Controllers\\ProductsController.cs",
@@ -147,19 +147,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ServicesController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\ServicesController.cs",
               "RelativeDocumentMoniker": "NetCoreFirstApp\\Controllers\\ServicesController.cs",
               "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\ServicesController.cs",
               "RelativeToolTip": "NetCoreFirstApp\\Controllers\\ServicesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T08:26:09.165Z"
+              "WhenOpened": "2025-01-22T08:26:09.165Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductModel.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Models\\ProductModel.cs",
               "RelativeDocumentMoniker": "NetCoreFirstApp\\Models\\ProductModel.cs",
@@ -171,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\NetCoreFirstApp\\NetCoreFirstApp\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "NetCoreFirstApp\\Controllers\\ProductController.cs",

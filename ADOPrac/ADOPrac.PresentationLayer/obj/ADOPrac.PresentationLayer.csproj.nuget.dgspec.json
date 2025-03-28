@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj",
         "projectName": "ADOPrac.BusinessLogicLayer",
-        "projectPath": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.BusinessLogicLayer\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.BusinessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj",
         "projectName": "ADOPrac.DataAccessLayer",
-        "projectPath": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj": {
-                "projectPath": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj"
+              "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj",
         "projectName": "ADOPrac.PresentationLayer",
-        "projectPath": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.PresentationLayer\\ADOPrac.PresentationLayer.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.PresentationLayer\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.PresentationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,11 +172,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj": {
-                "projectPath": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj"
+              "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.BusinessLogicLayer\\ADOPrac.BusinessLogicLayer.csproj"
               },
-              "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\hp\\Downloads\\ADOPrac\\ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj"
+              "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\ADOPrac\\ADOPrac.DataAccessLayer\\ADOPrac.DataAccessLayer.csproj"
               }
             }
           }
