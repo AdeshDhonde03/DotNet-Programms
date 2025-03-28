@@ -1,0 +1,9 @@
+﻿@model ADOPrac.BusinessLogicLayer.Models.State
+<h1>Add New State</h1>
+
+<form method="post" asp-action="Create" asp-controller="State">
+	<input type="text"  class="form-control mb-3" asp-for="StateName"/>
+	<input type="text" class="form-control mb-3" asp-for="StateDescription"/>
+	@await Html.PartialAsync("CountryOptions", ViewData["Countries"])
+	<input type="submit" class="btn btn-success" />
+</form>

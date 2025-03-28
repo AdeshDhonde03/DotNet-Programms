@@ -1,0 +1,49 @@
+﻿@model List<ADOPrac.BusinessLogicLayer.Models.Country>
+
+<h1>Country</h1>
+
+<div class="row">
+	<div class="col-md-6">
+		<div>
+			<a class="btn btn-primary" asp-controller="Country" asp-action="Country" asp-route-id=0>All</a>
+			<a class="btn btn-success" asp-controller="Country" asp-action="Country" asp-route-id=1>Active</a>
+			<a class="btn btn-danger" asp-controller="Country" asp-action="Country" asp-route-id=2>Inactive</a>
+		</div>
+		<table class="table">
+			<tr>
+				<th>Country Id</th>
+				<th>Country Name</th>
+				<th>Country Description</th>
+				<th>Is Active</th>
+				<th>Actions</th>
+			</tr>
+
+			@foreach(var country in Model){
+				<tr>
+					<td>@country.CountryId</td>
+					<td>@country.CountryName</td>
+					<td>@country.CountryDescription</td>
+					<td>
+						<form asp-action="ActiveChange" asp-controller="Country" method="post">
+							<input type="hidden" name="id" value="@country.CountryId" />
+							<input type="checkbox"
+								   name="flag"
+								   value="1"
+							@(country.isActive == 1 ? "checked" : "")
+								   onchange="this.form.flag.value = this.checked ? 1 : 0; this.form.submit();" />
+						</form>
+					</td>
+					<td>
+						<a class="link-dark" asp-action="Update" asp-controller="Country" asp-route-id="@country.CountryId">Edit</a> |
+						<a class="link-dark" asp-action="ActiveChange" asp-controller="Country" asp-route-id="@country.CountryId" asp-route-flag=0>Delete</a>
+					</td>
+
+				</tr>
+			}
+	</table>
+</div>
+
+	<div class="col-md-6">
+		@await Html.PartialAsync("Create", new ADOPrac.BusinessLogicLayer.Models.Country())
+	</div>
+</div>
