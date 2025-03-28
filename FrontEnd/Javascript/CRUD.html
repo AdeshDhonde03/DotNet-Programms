@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+    <style>
+        #container{
+            background-color: aquamarine;
+            padding: 20px;
+        }
+        .personBox{
+            background-color: orange;
+            padding: 0.7rem;
+            margin: 20px 0;
+
+        }
+    </style>
+</head>
+<body>
+    <div id="formContainer">
+        Enter Your Name:
+        <input type="text" id="name">
+        <br>
+        Enter Your Age:
+        <input type="number" id="age">
+        <br>
+        Enter Your City:
+        <input type="text" id="city">
+        <hr>
+        <button onclick="addPerson()">Add</button>
+
+    </div>
+    <div>
+        Search person by name: <input type="text" id="searchText" oninput="searchPerson()">
+    </div>
+
+    <div id="container">
+    
+    </div>
+    <script src="CRUD.js"></script>
+    
+</body>
+</html>

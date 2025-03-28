@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Management System</title>
+    
+</head>
+<body>
+    <div class="form">
+      Enter Employee Name: <input type="text" id="name" ><br>
+      Enter Employee Email: <input type="email" id="email" ><br>
+      Enter Employee salary: <input type="number" id="salary" ><br>
+      <button onclick="addEmployees()">Add</button>
+    </div>
+    <div class="searchBox">
+      <label >Search Employee by Name</label>
+      <input type="text" id="searchText" oninput="searchEmployee()">
+  </div>
+
+    <div id="container">
+    
+    </div>
+    <script src="crudApi2.js"></script>
+    
+</body>
+</html>
