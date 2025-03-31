@@ -56,7 +56,7 @@ const Company = () => {
             "method":"DELETE"
         };
 
-        let response=await fetch(`http://localhost:5091/api/Company/delete/${id}`,options);
+        let response= await fetch(`http://localhost:5091/api/Company/delete/${id}`,options);
 
         if(response.ok()){
             await fetchData();
