@@ -1,0 +1,6 @@
+@CountryStateManager.WebAPI_HostAddress = http://localhost:5195
+
+GET {{CountryStateManager.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

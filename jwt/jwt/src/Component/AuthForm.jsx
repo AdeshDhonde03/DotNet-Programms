@@ -32,7 +32,7 @@ const AuthForm = () => {
         }
         let response = await fetch(`https://localhost:7217/api/Auth/addUser`,options);
         console.log(response);
-        
+        alert("Register Sucessfully");
         SetUser({
             "Name":"",
             "UserName":"",
@@ -63,12 +63,13 @@ const AuthForm = () => {
         };
         let response = await fetch(`https://localhost:7217/api/Auth/logIn`,options);
         if(response.ok){
-            console.log(response);
+            // console.log(response);
             let token = await response.text();
-            console.log("Login successful. Token:", token);
+            // console.log("Login successful. Token:", token);
             login(token)
+            alert("LogIn Sucessfully");
             navigate("/dashboard");
-            console.log("Token stored in context. Navigating to /dashboard");
+            // console.log("Token stored in context. Navigating to /dashboard");
 
         }else {
             alert("Invalid username or password");
@@ -77,8 +78,7 @@ const AuthForm = () => {
        {
         console.error("LogIn Failed",error);
        }
-       
-    
+  
     }
 
     function handleLogIn(e)

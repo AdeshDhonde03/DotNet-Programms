@@ -1,0 +1,43 @@
+﻿@model CountryStateManager.BussinessLayer.Models.ViewModels.StateViewModel;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container mt-4">
+    <h2>Edit Record</h2>
+    <form asp-controller="State" asp-action="Update" method="post">
+        <div class="mb-3">
+            <label asp-for="StateId" class="form-label">State Id</label>
+            <input asp-for="StateId" class="form-control" readonly />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Select Country</label>
+            <select asp-for="CountryId" asp-items="ViewBag.CountryList" class="form-control">
+                <option value="">-- Select Country --</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input asp-for="Name" class="form-control" required />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Description</label>
+            <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="UpdatedBy" class="form-label">Updated By</label>
+            <input asp-for="UpdatedBy" class="form-control" placeholder="enter your id" required />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="IsActive" class="form-label">Active Status</label>
+            <input asp-for="IsActive" class="form-control" value="@Model.IsActive" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+        <a type="submit" class="btn btn-warning" asp-controller="State" asp-action="State">Cancle</a>
+    </form>
+</div>

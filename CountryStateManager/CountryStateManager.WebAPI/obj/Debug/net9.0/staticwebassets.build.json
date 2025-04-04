@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NBpX3OycXyzK8ZyB9T3ViyQ4v4RgRlcptdnnkzTV0K8=",
+  "Source": "CountryStateManager.WebAPI",
+  "BasePath": "_content/CountryStateManager.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

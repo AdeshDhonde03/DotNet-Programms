@@ -1,0 +1,8 @@
+
+16:08:39
+Error: 
+Attempted to divide by zero.
+
+16:10:02
+Error: 
+Attempted to divide by zero.

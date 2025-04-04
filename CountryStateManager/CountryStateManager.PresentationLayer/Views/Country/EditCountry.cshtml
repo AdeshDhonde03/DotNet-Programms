@@ -1,0 +1,38 @@
+﻿@model CountryStateManager.BussinessLayer.Models.Country;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container mt-4">
+    <h2>Edit Record</h2>
+    <form asp-controller="Country" asp-action="Update" method="post">
+        <div class="mb-3">
+            <label asp-for="CountryId" class="form-label">Country Id</label>
+            <input asp-for="CountryId" class="form-control" readonly/>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input asp-for="Name" class="form-control" required />
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Description</label>
+            <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="UpdatedBy" class="form-label">Updated By</label>
+            <input asp-for="UpdatedBy" class="form-control" placeholder="enter your id" required />
+        </div>
+
+         <div class="mb-3" hidden> 
+             <label asp-for="IsActive" class="form-label">Active Status</label> 
+             <input asp-for="IsActive" class="form-control" value="@Model.IsActive" required /> 
+         </div> 
+
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+        <a type="submit" class="btn btn-warning" asp-controller="Country" asp-action="Country">Cancle</a>
+    </form>
+</div>

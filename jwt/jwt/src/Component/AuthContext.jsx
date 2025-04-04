@@ -9,7 +9,7 @@ export const AuthProvider = ({ children }) => {
     
 
     const login = (jwtToken) => {
-        setToken(jwtToken); // ✅ Store token in state
+        setToken(jwtToken); 
         console.log("Token saved sucessfully");
         
     };

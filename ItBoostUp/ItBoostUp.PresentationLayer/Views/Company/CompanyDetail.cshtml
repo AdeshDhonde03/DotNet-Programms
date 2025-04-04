@@ -1,0 +1,16 @@
+﻿@model ItBoostUp.BuisnessLayer.Models.Company;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div>
+    <h1>Company Details</h1>
+    <ul>
+        <li>Company Id : @Model.Id</li>
+        <li>Company Name : @Model.Name</li>
+        <li>Company Address : @Model.Address</li>
+        <a class="btn btn-warning" asp-controller="Company" asp-action="EditCompany" asp-route-id="@Model.Id">Update</a>
+        <a class="btn btn-danger" asp-controller="Company" asp-action="Delete" asp-route-id="@Model.Id">Delete</a>
+    </ul>
+</div>

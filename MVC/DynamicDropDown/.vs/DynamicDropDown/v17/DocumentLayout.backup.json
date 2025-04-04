@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\dynamicdropdown\\dynamicdropdown\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|solutionrelative:dynamicdropdown\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\dynamicdropdown\\dynamicdropdown\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|solutionrelative:dynamicdropdown\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\dynamicdropdown\\dynamicdropdown\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|solutionrelative:dynamicdropdown\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\dynamicdropdown\\dynamicdropdown\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|solutionrelative:dynamicdropdown\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\dynamicdropdown\\dynamicdropdown\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|solutionrelative:dynamicdropdown\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\dynamicdropdown\\dynamicdropdown\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|solutionrelative:dynamicdropdown\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\dynamicdropdown\\dynamicdropdown\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|solutionrelative:dynamicdropdown\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\dynamicdropdown\\dynamicdropdown\\migrations\\20250401125846_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|solutionrelative:dynamicdropdown\\migrations\\20250401125846_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\dynamicdropdown\\dynamicdropdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|solutionrelative:dynamicdropdown\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\dynamicdropdown\\dynamicdropdown\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|solutionrelative:dynamicdropdown\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\dynamicdropdown\\dynamicdropdown\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CB3B8D-8F6A-468A-81B4-5FC12F26A073}|DynamicDropDown\\DynamicDropDown.csproj|solutionrelative:dynamicdropdown\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DynamicDropDown\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DynamicDropDown\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:02:52.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250401125846_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Migrations\\20250401125846_Initial Migration.cs",
+              "RelativeDocumentMoniker": "DynamicDropDown\\Migrations\\20250401125846_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Migrations\\20250401125846_Initial Migration.cs",
+              "RelativeToolTip": "DynamicDropDown\\Migrations\\20250401125846_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:58:47.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicDropDown\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Program.cs",
+              "RelativeToolTip": "DynamicDropDown\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:55:56.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\appsettings.json",
+              "RelativeDocumentMoniker": "DynamicDropDown\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\appsettings.json",
+              "RelativeToolTip": "DynamicDropDown\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T12:54:33.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "DynamicDropDown\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Data\\DataContext.cs",
+              "RelativeToolTip": "DynamicDropDown\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:51:36.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DynamicDropDown\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Models\\Category.cs",
+              "RelativeToolTip": "DynamicDropDown\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:37:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DynamicDropDown\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Models\\Product.cs",
+              "RelativeToolTip": "DynamicDropDown\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:36:55.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "DynamicDropDown\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "DynamicDropDown\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T13:18:25.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "DynamicDropDown\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "DynamicDropDown\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T13:03:17.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DynamicDropDown\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DynamicDropDown\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T13:04:48.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "DynamicDropDown\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\DynamicDropDown\\DynamicDropDown\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "DynamicDropDown\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:04:25.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

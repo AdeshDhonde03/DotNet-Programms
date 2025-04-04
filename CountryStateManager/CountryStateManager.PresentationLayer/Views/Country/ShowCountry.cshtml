@@ -1,0 +1,49 @@
+﻿@model CountryStateManager.BussinessLayer.Models.Country;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container mt-4">
+    <h2 class="mb-4">Country Details</h2>
+
+    <table class="table table-bordered table-hover shadow-sm bg-white rounded">
+        <tbody>
+            <tr>
+                <th class="bg-dark text-white col-md-3">Country Id</th>
+                <td>@Model.CountryId</td>
+            </tr>
+            <tr>
+                <th class="bg-dark text-white col-md-3">Name</th>
+                <td>@Model.Name</td>
+            </tr>
+            <tr>
+                <th class="bg-dark text-white col-md-3">Description</th>
+                <td>@Model.Description</td>
+            </tr>
+            <tr>
+                <th class="bg-dark text-white col-md-3">Created By (Id)</th>
+                <td>@Model.CreatedBy</td>
+            </tr>
+            <tr>
+                <th class="bg-dark text-white col-md-3">Created On</th>
+                <td>@Model.CreatedOn?.ToString("yyyy-MM-dd HH:mm:ss")</td>
+            </tr>
+            <tr>
+                <th class="bg-dark text-white col-md-3">Last Updated By (Id)</th>
+                <td>@Model.UpdatedBy</td>
+            </tr>
+            <tr>
+                <th class="bg-dark text-white col-md-3">Last Updated On</th>
+                <td>@Model.UpdatedOn?.ToString("yyyy-MM-dd HH:mm:ss")</td>
+            </tr>
+            <tr>
+                <th class="bg-dark text-white col-md-3">Active Status</th>
+                <td>@(Model.IsActive ? "Yes" : "No")</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a class="btn btn-outline-primary" asp-controller="Country" asp-action="Country">Back to List</a>
+</div>
+
