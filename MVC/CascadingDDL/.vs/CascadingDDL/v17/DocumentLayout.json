@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\CascadingDDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9854DF5-60BD-4A95-811C-E6AA2E4AE296}|CascadingDDL\\CascadingDDL.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\cascadingddl\\cascadingddl\\wwwroot\\js\\cascadingddl.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A9854DF5-60BD-4A95-811C-E6AA2E4AE296}|CascadingDDL\\CascadingDDL.csproj|solutionrelative:cascadingddl\\wwwroot\\js\\cascadingddl.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9854DF5-60BD-4A95-811C-E6AA2E4AE296}|CascadingDDL\\CascadingDDL.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\cascadingddl\\cascadingddl\\controllers\\cascadingddlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9854DF5-60BD-4A95-811C-E6AA2E4AE296}|CascadingDDL\\CascadingDDL.csproj|solutionrelative:cascadingddl\\controllers\\cascadingddlcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9854DF5-60BD-4A95-811C-E6AA2E4AE296}|CascadingDDL\\CascadingDDL.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\cascadingddl\\cascadingddl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9854DF5-60BD-4A95-811C-E6AA2E4AE296}|CascadingDDL\\CascadingDDL.csproj|solutionrelative:cascadingddl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9854DF5-60BD-4A95-811C-E6AA2E4AE296}|CascadingDDL\\CascadingDDL.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\mvc\\cascadingddl\\cascadingddl\\views\\cascadingddl\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9854DF5-60BD-4A95-811C-E6AA2E4AE296}|CascadingDDL\\CascadingDDL.csproj|solutionrelative:cascadingddl\\views\\cascadingddl\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\CascadingDDL\\CascadingDDL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CascadingDDL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\CascadingDDL\\CascadingDDL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CascadingDDL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T12:53:28.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\CascadingDDL\\CascadingDDL\\Views\\CascadingDDL\\Index.cshtml",
+              "RelativeDocumentMoniker": "CascadingDDL\\Views\\CascadingDDL\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\CascadingDDL\\CascadingDDL\\Views\\CascadingDDL\\Index.cshtml",
+              "RelativeToolTip": "CascadingDDL\\Views\\CascadingDDL\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T12:47:54.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CascadingDDLController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\CascadingDDL\\CascadingDDL\\Controllers\\CascadingDDLController.cs",
+              "RelativeDocumentMoniker": "CascadingDDL\\Controllers\\CascadingDDLController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\CascadingDDL\\CascadingDDL\\Controllers\\CascadingDDLController.cs",
+              "RelativeToolTip": "CascadingDDL\\Controllers\\CascadingDDLController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:32:07.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CascadingDDL.js",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\CascadingDDL\\CascadingDDL\\wwwroot\\js\\CascadingDDL.js",
+              "RelativeDocumentMoniker": "CascadingDDL\\wwwroot\\js\\CascadingDDL.js",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\MVC\\CascadingDDL\\CascadingDDL\\wwwroot\\js\\CascadingDDL.js",
+              "RelativeToolTip": "CascadingDDL\\wwwroot\\js\\CascadingDDL.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-05T12:25:01.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
