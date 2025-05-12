@@ -1,0 +1,49 @@
+<p>Student Details</p>
+
+<form class="form-action" (submit)="addStudent()">
+    Enter Name Of Student: <input type="text" name="name" [(ngModel)]="CreateStudentFormData.name"/><br>
+    Enter School Name    : <input type="text" name="schoolName" [(ngModel)]="CreateStudentFormData.schoolName"/><br>
+    Enter Address        : <input type="text" name="address" [(ngModel)]="CreateStudentFormData.address" /><br>
+
+    <input type="submit" value="Add Student"/>
+</form>
+
+<table border="1">
+    <tr>
+        <th>Student Id</th>
+        <th>Name</th>
+        <th>School Name</th>
+        <th>Address</th>
+        <th>Actions</th>
+    </tr>
+    @for(student of students; track student.id)
+    {
+        @if(setFlag && student.id==setUpdateId)
+        {
+            <tr>
+                <td>{{student.id}}</td>
+                <td><input type="text" [(ngModel)]="updateStudentFormData.name"/></td>
+                <td><input type="text" [(ngModel)]="updateStudentFormData.schoolName"/></td>
+                <td><input type="text" [(ngModel)]="updateStudentFormData.address"/></td>
+                <td>
+                       <button (click)="updateStudent()">Update</button>
+                        <button (click)="deleteStudent(student.id)">Delete</button>
+                </td>
+            </tr>
+            
+
+        }
+        @else{
+                <tr>
+                    <td>{{student.id}}</td>
+                    <td>{{student.name}}</td>
+                    <td>{{student.schoolName}}</td>
+                    <td>{{student.address}}</td>
+                    <td>
+                        <button (click)="addUpdateForm(student)">Update</button>
+                        <button (click)="deleteStudent(student.id)">Delete</button>
+                    </td>
+                </tr>
+            }
+    }
+</table>

@@ -1,0 +1,55 @@
+<p>Employee Details</p>
+
+
+<form (submit)="createEmployee()" >
+    Enter Name:<input type="text" name="name" [(ngModel)]="createEmployeeFormData.name"><br>
+    Enter Email:<input type="email" name="email" [(ngModel)]="createEmployeeFormData.email"><br>
+    Enter Salary:<input type="number" name="salary" [(ngModel)]="createEmployeeFormData.salary" ><br>
+
+    <input type="submit" value="Add"/>
+</form>
+<table>
+    <tr>
+        <th>Employee Id</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Salary</th>
+        <th>Actions</th>
+    </tr>
+    @for(employee of employees; track employee.employeeId)
+    
+    {
+        @if(updateEmployeeFlag && employee.employeeId ==updateEmployeeId)
+        {
+        <tr>
+            <td>{{employee.employeeId}}</td>
+            <td><input type="text" [(ngModel)]="updateEmployeeFormData.name"/></td>
+            <td><input type="email" [(ngModel)]="updateEmployeeFormData.email"/></td>
+            <td><input type="number" [(ngModel)]="updateEmployeeFormData.salary"/></td>
+            <td>
+                <button (click)="updateEmployee()">Update</button>
+                <button (click)="deleteEmployee(employee.employeeId)">Delete</button>
+            </td>
+        </tr>
+        }
+    @else{
+        <tr>
+            <td>{{employee.employeeId}}</td>
+            <td>{{employee.name}}</td>
+            <td>{{employee.email}}</td>
+            <td>{{employee.salary}}</td>
+            <td>
+                <button (click)="addUpdateForm(employee)">Update</button>
+                <button (click)="deleteEmployee(employee.employeeId)">Delete</button>
+            </td>
+        </tr>
+
+    }
+    }
+</table>
+<div>
+    @for(page of paginateArray; track page)
+    {
+        <button (click)="handlePagination(page)">{{page}}</button>
+    }
+</div>
