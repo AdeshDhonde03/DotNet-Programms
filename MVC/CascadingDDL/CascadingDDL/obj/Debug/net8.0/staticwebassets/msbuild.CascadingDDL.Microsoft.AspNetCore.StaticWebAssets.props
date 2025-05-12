@@ -858,8 +858,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ynku0gk0h0</Fingerprint>
-      <Integrity>HkTO8X2ekVFgV76MhnoychL6746DLbmWxjrtlqgtmMs=</Integrity>
+      <Fingerprint>npjutsfhp0</Fingerprint>
+      <Integrity>SxykboI4H3RyDhLKhOi8a3Lz+KegSoaZAm4QbfOXxUs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\CascadingDDL.js'))</OriginalItemSpec>

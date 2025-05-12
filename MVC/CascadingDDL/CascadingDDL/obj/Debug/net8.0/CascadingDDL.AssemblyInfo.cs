@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CascadingDDL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0076b69a233cf6963fa4bceaa50bf5f9d35ffc3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de8d994cadbb891d37bdd1704944f774566c16a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CascadingDDL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CascadingDDL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

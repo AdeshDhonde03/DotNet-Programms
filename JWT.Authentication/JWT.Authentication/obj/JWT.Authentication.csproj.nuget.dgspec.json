@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\JWT.Authentication\\JWT.Authentication\\JWT.Authentication.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\JWT.Authentication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\JWT.Authentication\\JWT.Authentication\\JWT.Authentication.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\JWT.Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\JWT.Authentication\\JWT.Authentication\\JWT.Authentication.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\JWT.Authentication.csproj",
         "projectName": "JWT.Authentication",
-        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\JWT.Authentication\\JWT.Authentication\\JWT.Authentication.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\JWT.Authentication.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\Web Api\\JWT.Authentication\\JWT.Authentication\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
