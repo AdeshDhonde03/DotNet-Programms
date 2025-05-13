@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prath\\Desktop\\C#2nd\\WebApps\\CountryStateManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D37808A-EE30-4DAC-B689-FF747BEE8888}|CountryStateManager.PresentationLayer\\CountryStateManager.PresentationLayer.csproj|c:\\users\\prath\\desktop\\c#2nd\\webapps\\countrystatemanager\\countrystatemanager.presentationlayer\\views\\state\\partialview\\createstate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D37808A-EE30-4DAC-B689-FF747BEE8888}|CountryStateManager.PresentationLayer\\CountryStateManager.PresentationLayer.csproj|solutionrelative:countrystatemanager.presentationlayer\\views\\state\\partialview\\createstate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D37808A-EE30-4DAC-B689-FF747BEE8888}|CountryStateManager.PresentationLayer\\CountryStateManager.PresentationLayer.csproj|c:\\users\\prath\\desktop\\c#2nd\\webapps\\countrystatemanager\\countrystatemanager.presentationlayer\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D37808A-EE30-4DAC-B689-FF747BEE8888}|CountryStateManager.PresentationLayer\\CountryStateManager.PresentationLayer.csproj|solutionrelative:countrystatemanager.presentationlayer\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130FD572-9709-44A9-BB71-8FC97512EC80}|CountryStateManager.DataAccessLayer\\CountryStateManager.DataAccessLayer.csproj|c:\\users\\prath\\desktop\\c#2nd\\webapps\\countrystatemanager\\countrystatemanager.dataaccesslayer\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130FD572-9709-44A9-BB71-8FC97512EC80}|CountryStateManager.DataAccessLayer\\CountryStateManager.DataAccessLayer.csproj|solutionrelative:countrystatemanager.dataaccesslayer\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858B45E3-7F4E-4D57-AC05-1F44A50C669A}|CountryStateManager.WebAPI\\CountryStateManager.WebAPI.csproj|c:\\users\\prath\\desktop\\c#2nd\\webapps\\countrystatemanager\\countrystatemanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858B45E3-7F4E-4D57-AC05-1F44A50C669A}|CountryStateManager.WebAPI\\CountryStateManager.WebAPI.csproj|solutionrelative:countrystatemanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130FD572-9709-44A9-BB71-8FC97512EC80}|CountryStateManager.DataAccessLayer\\CountryStateManager.DataAccessLayer.csproj|c:\\users\\prath\\desktop\\c#2nd\\webapps\\countrystatemanager\\countrystatemanager.dataaccesslayer\\repository\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130FD572-9709-44A9-BB71-8FC97512EC80}|CountryStateManager.DataAccessLayer\\CountryStateManager.DataAccessLayer.csproj|solutionrelative:countrystatemanager.dataaccesslayer\\repository\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "C:\\Users\\prath\\Desktop\\C#2nd\\WebApps\\CountryStateManager\\CountryStateManager.PresentationLayer\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "CountryStateManager.PresentationLayer\\Controllers\\StateController.cs",
+              "ToolTip": "C:\\Users\\prath\\Desktop\\C#2nd\\WebApps\\CountryStateManager\\CountryStateManager.PresentationLayer\\Controllers\\StateController.cs",
+              "RelativeToolTip": "CountryStateManager.PresentationLayer\\Controllers\\StateController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:28:35.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateState.cshtml",
+              "DocumentMoniker": "C:\\Users\\prath\\Desktop\\C#2nd\\WebApps\\CountryStateManager\\CountryStateManager.PresentationLayer\\Views\\State\\PartialView\\CreateState.cshtml",
+              "RelativeDocumentMoniker": "CountryStateManager.PresentationLayer\\Views\\State\\PartialView\\CreateState.cshtml",
+              "ToolTip": "C:\\Users\\prath\\Desktop\\C#2nd\\WebApps\\CountryStateManager\\CountryStateManager.PresentationLayer\\Views\\State\\PartialView\\CreateState.cshtml",
+              "RelativeToolTip": "CountryStateManager.PresentationLayer\\Views\\State\\PartialView\\CreateState.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T09:27:37.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prath\\Desktop\\C#2nd\\WebApps\\CountryStateManager\\CountryStateManager.DataAccessLayer\\Repository\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "CountryStateManager.DataAccessLayer\\Repository\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\prath\\Desktop\\C#2nd\\WebApps\\CountryStateManager\\CountryStateManager.DataAccessLayer\\Repository\\CountryRepository.cs",
+              "RelativeToolTip": "CountryStateManager.DataAccessLayer\\Repository\\CountryRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:27:02.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prath\\Desktop\\C#2nd\\WebApps\\CountryStateManager\\CountryStateManager.DataAccessLayer\\Repository\\StateRepository.cs",
+              "RelativeDocumentMoniker": "CountryStateManager.DataAccessLayer\\Repository\\StateRepository.cs",
+              "ToolTip": "C:\\Users\\prath\\Desktop\\C#2nd\\WebApps\\CountryStateManager\\CountryStateManager.DataAccessLayer\\Repository\\StateRepository.cs",
+              "RelativeToolTip": "CountryStateManager.DataAccessLayer\\Repository\\StateRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:34:29.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prath\\Desktop\\C#2nd\\WebApps\\CountryStateManager\\CountryStateManager.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CountryStateManager.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\prath\\Desktop\\C#2nd\\WebApps\\CountryStateManager\\CountryStateManager.WebAPI\\Program.cs",
+              "RelativeToolTip": "CountryStateManager.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:16:24.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

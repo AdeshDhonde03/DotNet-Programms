@@ -1,0 +1,13 @@
+﻿@{
+    var countries = ViewData["Countries"] as List<ADOPrac.BusinessLogicLayer.Models.Country>;
+}
+<select class="form-control mb-3" name="CountryId">
+    <option value="">Select a Country</option>
+    @if (countries != null)
+    {
+        @foreach (var country in countries)
+        {
+            <option value="@country.CountryId">@country.CountryName</option>
+        }
+    }
+</select>

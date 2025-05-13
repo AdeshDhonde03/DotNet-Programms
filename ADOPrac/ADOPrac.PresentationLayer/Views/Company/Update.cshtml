@@ -1,0 +1,12 @@
+﻿@model ADOPrac.BusinessLogicLayer.Models.Company
+
+<h1>
+	Update
+</h1>
+
+<form method="post" asp-action="Update" asp-controller="Company">
+	<input type="number" value="@Model.CompanyId" readonly asp-for="CompanyId"/>
+	<input type="text" value="@Model.CompanyName" asp-for="CompanyName" />
+	<input type="text" value="@Model.CompanyAddress" asp-for="CompanyAddress" />
+	<input type="submit" class="btn btn-success"/>
+</form>

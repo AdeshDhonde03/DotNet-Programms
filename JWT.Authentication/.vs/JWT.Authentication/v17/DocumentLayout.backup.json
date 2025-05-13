@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\models\\adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\models\\adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\data\\jwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\data\\jwtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\jwt.authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\jwt.authentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|c:\\users\\hp\\onedrive\\desktop\\dotnet-programms\\jwt.authentication\\jwt.authentication\\migrations\\20250328102511_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DED15F-717F-43AF-A4B4-CB75BC5447DE}|JWT.Authentication\\JWT.Authentication.csproj|solutionrelative:jwt.authentication\\migrations\\20250328102511_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\AddUserRole.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Models\\AddUserRole.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\AddUserRole.cs",
+              "RelativeToolTip": "JWT.Authentication\\Models\\AddUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:48:26.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogInRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\LogInRequest.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Models\\LogInRequest.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\LogInRequest.cs",
+              "RelativeToolTip": "JWT.Authentication\\Models\\LogInRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:52:41.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\Employee.cs",
+              "RelativeToolTip": "JWT.Authentication\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:49:17.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\Role.cs",
+              "RelativeToolTip": "JWT.Authentication\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:44:32.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "JWT.Authentication\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:40:35.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Services\\AuthServices.cs",
+              "RelativeToolTip": "JWT.Authentication\\Services\\AuthServices.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAUwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:16:42.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Data\\JwtContext.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Data\\JwtContext.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Data\\JwtContext.cs",
+              "RelativeToolTip": "JWT.Authentication\\Data\\JwtContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:55:39.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWT.Authentication\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:37:26.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "JWT.Authentication\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:37:05.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Interfaces\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Interfaces\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Interfaces\\IAuthServices.cs",
+              "RelativeToolTip": "JWT.Authentication\\Interfaces\\IAuthServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:36:36.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Program.cs",
+              "RelativeToolTip": "JWT.Authentication\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:15:21.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\UserRole.cs",
+              "RelativeToolTip": "JWT.Authentication\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:47:19.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT.Authentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\appsettings.json",
+              "RelativeToolTip": "JWT.Authentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T10:09:21.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Models\\User.cs",
+              "RelativeToolTip": "JWT.Authentication\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:43:05.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "JWT.Authentication\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T12:54:48.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "JWT.Authentication\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\appsettings.Development.json",
+              "RelativeToolTip": "JWT.Authentication\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T06:33:03.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JWT.Authentication.http",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\JWT.Authentication.http",
+              "RelativeDocumentMoniker": "JWT.Authentication\\JWT.Authentication.http",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\JWT.Authentication.http",
+              "RelativeToolTip": "JWT.Authentication\\JWT.Authentication.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-31T06:32:52.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250328102511_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Migrations\\20250328102511_Initial.cs",
+              "RelativeDocumentMoniker": "JWT.Authentication\\Migrations\\20250328102511_Initial.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\DotNet-Programms\\JWT.Authentication\\JWT.Authentication\\Migrations\\20250328102511_Initial.cs",
+              "RelativeToolTip": "JWT.Authentication\\Migrations\\20250328102511_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:25:12.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

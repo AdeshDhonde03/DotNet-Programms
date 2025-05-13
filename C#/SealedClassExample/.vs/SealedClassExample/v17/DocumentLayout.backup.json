@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\C#\\SealedClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75430D-E0E8-4204-BB5D-4EA268BDBF77}|SealedClassExample.csproj|c:\\users\\hp\\desktop\\c#\\sealedclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75430D-E0E8-4204-BB5D-4EA268BDBF77}|SealedClassExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75430D-E0E8-4204-BB5D-4EA268BDBF77}|SealedClassExample.csproj|c:\\users\\hp\\desktop\\c#\\sealedclassexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75430D-E0E8-4204-BB5D-4EA268BDBF77}|SealedClassExample.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75430D-E0E8-4204-BB5D-4EA268BDBF77}|SealedClassExample.csproj|c:\\users\\hp\\desktop\\c#\\sealedclassexample\\accountinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75430D-E0E8-4204-BB5D-4EA268BDBF77}|SealedClassExample.csproj|solutionrelative:accountinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\SealedClassExample\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\SealedClassExample\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:11:30.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountInformation.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\SealedClassExample\\AccountInformation.cs",
+              "RelativeDocumentMoniker": "AccountInformation.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\SealedClassExample\\AccountInformation.cs",
+              "RelativeToolTip": "AccountInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:09:47.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\SealedClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\SealedClassExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:09:11.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

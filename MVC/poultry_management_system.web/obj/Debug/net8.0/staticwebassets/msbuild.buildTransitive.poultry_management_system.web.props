@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\poultry_management_system.web.props" />
+</Project>

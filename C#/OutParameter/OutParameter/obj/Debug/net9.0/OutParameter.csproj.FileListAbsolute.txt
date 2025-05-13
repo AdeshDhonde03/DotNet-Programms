@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\bin\Debug\net9.0\OutParameter.exe
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\bin\Debug\net9.0\OutParameter.deps.json
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\bin\Debug\net9.0\OutParameter.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\bin\Debug\net9.0\OutParameter.dll
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\bin\Debug\net9.0\OutParameter.pdb
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\obj\Debug\net9.0\OutParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\obj\Debug\net9.0\OutParameter.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\obj\Debug\net9.0\OutParameter.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\obj\Debug\net9.0\OutParameter.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\obj\Debug\net9.0\OutParameter.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\obj\Debug\net9.0\OutParameter.dll
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\obj\Debug\net9.0\refint\OutParameter.dll
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\obj\Debug\net9.0\OutParameter.pdb
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\obj\Debug\net9.0\OutParameter.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\DotNet-Programms\C#\OutParameter\OutParameter\obj\Debug\net9.0\ref\OutParameter.dll

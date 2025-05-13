@@ -1,0 +1,38 @@
+﻿@model CountryStateManager.BussinessLayer.Models.State;
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<h1>Create State</h1>
+<div class="container mt-4">
+    <h2>Create Record</h2>
+    <form asp-controller="State" asp-action="Create" method="post">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input asp-for="Name" class="form-control" required />
+        </div>
+
+        <div class="mb-3"> 
+             <label class="form-label">Select Country</label> 
+             <select asp-for="CountryId" asp-items="ViewBag.CountryList" class="form-control"> 
+                 <option value="">-- Select Country --</option> 
+             </select> 
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">Description</label>
+            <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+        </div>
+
+        <div class="form-check mb-3">
+            <input asp-for="IsActive" class="form-check-input" type="checkbox" />
+            <label asp-for="IsActive" class="form-check-label">Is Active</label>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CreatedBy" class="form-label">Created By</label>
+            <input asp-for="CreatedBy" class="form-control" placeholder="enter your id" required />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

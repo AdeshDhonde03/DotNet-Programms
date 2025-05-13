@@ -1,0 +1,29 @@
+﻿@model List<ADOPrac.BusinessLogicLayer.Models.Company>
+<h1>
+	Company Details
+</h1>
+
+<div>
+	<a asp-action="Create" asp-controller="Company" class="btn btn-primary">Add Employee</a>
+</div>
+
+<div>
+	<table class="table">
+    <tr>
+            <th>Company Id</th>
+            <th>Company Name</th>
+            <th>Company Address</th>
+            <th>Actions</th>
+    </tr>
+    @foreach(var company in Model){
+        <tr>
+                <td>@company.CompanyId</td>
+                <td>@company.CompanyName</td>
+                <td>@company.CompanyAddress</td>
+                <td>
+                    <a class="Link-dark" asp-controller="Company" asp-action="CompanyView" asp-route-id="@company.CompanyId">View</a> | <a class="Link-dark" asp-controller="Company" asp-action="Update" asp-route-id="@company.CompanyId">Edit</a> | <a class="Link-dark" asp-action="Delete" asp-controller="Company" asp-route-id="@company.CompanyId">Delete</a>
+                </td>
+        </tr>
+    }
+</table>
+</div>

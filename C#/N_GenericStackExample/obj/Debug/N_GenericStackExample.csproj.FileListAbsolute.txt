@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\C#\N_GenericStackExample\bin\Debug\N_GenericStackExample.exe.config
+C:\Users\hp\Desktop\C#\N_GenericStackExample\bin\Debug\N_GenericStackExample.exe
+C:\Users\hp\Desktop\C#\N_GenericStackExample\bin\Debug\N_GenericStackExample.pdb
+C:\Users\hp\Desktop\C#\N_GenericStackExample\obj\Debug\N_GenericStackExample.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\N_GenericStackExample\obj\Debug\N_GenericStackExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\N_GenericStackExample\obj\Debug\N_GenericStackExample.exe
+C:\Users\hp\Desktop\C#\N_GenericStackExample\obj\Debug\N_GenericStackExample.pdb

@@ -1,0 +1,34 @@
+﻿@model List<ItBoostUp.BuisnessLayer.Models.Company>
+
+<html>
+    <head>
+
+    </head>
+    <body>
+    <div>
+        <a asp-controller="Company" asp-action="Create" class="btn btn-primary">Create Company</a>
+    </div>
+    <table class="table">
+        <tr>
+            <th>Company Id</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Action</th>
+        </tr>
+
+        @foreach (var company in Model)
+        {
+            <tr>
+                <td>@company.Id</td>
+                <td>@company.Name</td>
+                <td>@company.Address</td>
+                <td>
+                    <a class="btn btn-success" asp-controller="Company" asp-action="CompanyDetail" asp-route-id="@company.Id">View</a>
+                    <a class="btn btn-warning" asp-controller="Company" asp-action="EditCompany" asp-route-id="@company.Id">Update</a>
+                    <a class="btn btn-danger" asp-controller="Company" asp-action="Delete" asp-route-id="@company.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+    </body>
+</html>

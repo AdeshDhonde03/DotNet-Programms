@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ItBoostUp.BuisnessLayer">
+      <HintPath>..\ItBoostUp.BuisnessLayer\bin\Debug\net9.0\ItBoostUp.BuisnessLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="ItBoostUp.DataAccessLayer">
+      <HintPath>..\ItBoostUp.BuisnessLayer\bin\Debug\net9.0\ItBoostUp.DataAccessLayer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

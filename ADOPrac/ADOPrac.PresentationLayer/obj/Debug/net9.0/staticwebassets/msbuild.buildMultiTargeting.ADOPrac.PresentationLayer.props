@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ADOPrac.PresentationLayer.props" />
+</Project>

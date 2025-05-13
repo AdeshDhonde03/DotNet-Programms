@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\C#\HierachicalInheritance\bin\Debug\HierachicalInheritance.exe.config
+C:\Users\hp\Desktop\C#\HierachicalInheritance\bin\Debug\HierachicalInheritance.exe
+C:\Users\hp\Desktop\C#\HierachicalInheritance\bin\Debug\HierachicalInheritance.pdb
+C:\Users\hp\Desktop\C#\HierachicalInheritance\obj\Debug\HierachicalInheritance.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\HierachicalInheritance\obj\Debug\HierachicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\HierachicalInheritance\obj\Debug\HierachicalInheritance.exe
+C:\Users\hp\Desktop\C#\HierachicalInheritance\obj\Debug\HierachicalInheritance.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\C#\\Logger1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA08B524-6934-49C4-8297-3EE504F88427}|Logger1.csproj|c:\\users\\hp\\desktop\\c#\\logger1\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA08B524-6934-49C4-8297-3EE504F88427}|Logger1.csproj|solutionrelative:log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\Logger1\\Log.cs",
+              "RelativeDocumentMoniker": "Log.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\Logger1\\Log.cs",
+              "RelativeToolTip": "Log.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:26:06.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

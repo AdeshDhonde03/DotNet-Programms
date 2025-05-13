@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\C#\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\hp\Desktop\C#\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\hp\Desktop\C#\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\hp\Desktop\C#\FileManagement\bin\Debug\Logger1.dll
+C:\Users\hp\Desktop\C#\FileManagement\bin\Debug\Logger1.pdb
+C:\Users\hp\Desktop\C#\FileManagement\obj\Debug\FileManagement.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C#\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\FileManagement\obj\Debug\FileMana.41E410A7.Up2Date
+C:\Users\hp\Desktop\C#\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\hp\Desktop\C#\FileManagement\obj\Debug\FileManagement.pdb

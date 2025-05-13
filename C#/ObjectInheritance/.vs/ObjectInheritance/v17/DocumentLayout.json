@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\C#\\ObjectInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24E84C96-066A-4346-AC54-5653D5242FF5}|ObjectInheritance.csproj|c:\\users\\hp\\desktop\\c#\\objectinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E84C96-066A-4346-AC54-5653D5242FF5}|ObjectInheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E84C96-066A-4346-AC54-5653D5242FF5}|ObjectInheritance.csproj|c:\\users\\hp\\desktop\\c#\\objectinheritance\\classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E84C96-066A-4346-AC54-5653D5242FF5}|ObjectInheritance.csproj|solutionrelative:classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E84C96-066A-4346-AC54-5653D5242FF5}|ObjectInheritance.csproj|c:\\users\\hp\\desktop\\c#\\objectinheritance\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E84C96-066A-4346-AC54-5653D5242FF5}|ObjectInheritance.csproj|solutionrelative:classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassB.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\ObjectInheritance\\ClassB.cs",
+              "RelativeDocumentMoniker": "ClassB.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\ObjectInheritance\\ClassB.cs",
+              "RelativeToolTip": "ClassB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:01:24.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassA.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\ObjectInheritance\\ClassA.cs",
+              "RelativeDocumentMoniker": "ClassA.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\ObjectInheritance\\ClassA.cs",
+              "RelativeToolTip": "ClassA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:00:36.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\C#\\ObjectInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\C#\\ObjectInheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:00:19.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
